@@ -2,9 +2,9 @@ variables:
 - name: resource_group
   value: tmc-bootstrap-automation
 - name: storage_account
-  value: tfstate01tmc
+  value: btetfstate01tmc
 - name: service_connection
-  value: warroyo-se-azure
+  value: bedney-lab-sc
 - group: tmc-bootstrap-automation
 trigger:
   branches:

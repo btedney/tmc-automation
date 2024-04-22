@@ -34,3 +34,5 @@ override.tf.json
 terraform.rc
 output.json
 output-*.json
+
+setup.sh
